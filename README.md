@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mingkc3-1976497/mingkc3-1976497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mingkc3-1976497/mingkc3-1976497.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
